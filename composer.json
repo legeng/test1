@@ -1,0 +1,16 @@
+{
+    "name": "legeng/modules/user",
+    "description": "The Web Project For JoinQuant.",
+    "keywords": ["legeng/test"],
+    "license": "MIT",
+    "type": "joinquant-web-module",
+    "authors": [
+        {
+            "name": "joinquant",
+            "email": "hi@joinquant.com"
+        }
+    ],
+    "extra": {
+        "installer-name": "modules/user"
+    }
+}
