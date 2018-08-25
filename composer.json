@@ -10,6 +10,10 @@
             "email": "hi@joinquant.com"
         }
     ],
+    "require": {
+          "php":">=5.4",
+          "legeng/modules/algorithm":"dev-master"
+    },
     "extra": {
         "installer-name": "modules/user"
     }
